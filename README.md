@@ -1,4 +1,4 @@
-# Investigating Customer Segmentation for Arvato Financial Services
+# Detecting Fraud transactions
 
 ## Project Motivation
 
