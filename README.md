@@ -2,7 +2,14 @@
 
 ## Project Motivation
 
-The aim of the project is to build a machine learning model to find fraudsters and take appropriate actions.
+The aim of the project is to build a machine learning model to find fraudsters and take appropriate actions and also also
+
+Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Fraud dataset was collected and investigated.
+Few businuess questions were asked and answered:
+
+- What type of fraud transactions are mostly happening?
+- What age group people are mostly involved in Fraud?
+- What are the important features to detect the fraud? 
 
 ## File Description
 
